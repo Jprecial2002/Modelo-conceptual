@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="Página-1" id="piukYRTXUva3LGdc_yS3">
-    <mxGraphModel dx="4600" dy="2534" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4225" dy="2193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,9 +10,9 @@
         <mxCell id="9eXhxKmKI8XXCZGN5zWt-2" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Crisis ecológica&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-560" y="-417" width="233" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-10" edge="1" target="9eXhxKmKI8XXCZGN5zWt-25">
+        <mxCell id="9eXhxKmKI8XXCZGN5zWt-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-447" y="-126.066650390625" as="targetPoint" />
+            <mxPoint x="-446.5" y="-91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9eXhxKmKI8XXCZGN5zWt-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-10" edge="1">
@@ -37,25 +37,16 @@
             <mxPoint x="-1004" y="-297.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="9eXhxKmKI8XXCZGN5zWt-33">
+        <mxCell id="9eXhxKmKI8XXCZGN5zWt-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="9eXhxKmKI8XXCZGN5zWt-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1157.692326472356" y="-382.3076359675481" as="targetPoint" />
             <mxPoint x="-980.859375" y="-356" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-21" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Poblacion civil&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-986" y="-331" width="233" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="9eXhxKmKI8XXCZGN5zWt-49">
+        <mxCell id="9eXhxKmKI8XXCZGN5zWt-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="9eXhxKmKI8XXCZGN5zWt-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="272.5333658854165" y="-385.26668294270826" as="targetPoint" />
             <mxPoint x="108" y="-339.54341048553783" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-52" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="9eXhxKmKI8XXCZGN5zWt-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="267.2000325520835" y="-303" as="targetPoint" />
-            <mxPoint x="108" y="-303" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9eXhxKmKI8XXCZGN5zWt-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" parent="1" target="9eXhxKmKI8XXCZGN5zWt-47" edge="1">
@@ -63,36 +54,31 @@
             <mxPoint x="108" y="-260.840106732348" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-23" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Entorno natural (mares, selvas, bosques...)&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-137" y="-336.5" width="233" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-36" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-25" edge="1">
+        <mxCell id="9eXhxKmKI8XXCZGN5zWt-36" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-449.246835443038" y="1" as="sourcePoint" />
+            <mxPoint x="-446.5" y="-18" as="sourcePoint" />
             <mxPoint x="-450" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0.987;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-25" target="9eXhxKmKI8XXCZGN5zWt-54" edge="1">
+        <mxCell id="9eXhxKmKI8XXCZGN5zWt-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0.987;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="9eXhxKmKI8XXCZGN5zWt-54" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-581" y="-57.5" as="sourcePoint" />
+            <mxPoint x="-562.9999999999995" y="-54.5" as="sourcePoint" />
             <mxPoint x="-701" y="-57.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-44" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0.032;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-25" edge="1" target="9eXhxKmKI8XXCZGN5zWt-56">
+        <mxCell id="9eXhxKmKI8XXCZGN5zWt-44" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0.032;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="9eXhxKmKI8XXCZGN5zWt-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-210" y="-54.5" as="targetPoint" />
+            <mxPoint x="-329.99999999999955" y="-54.891220702527335" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-25" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Naciones especificas&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-563" y="-91" width="233" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="9eXhxKmKI8XXCZGN5zWt-31">
+        <mxCell id="9eXhxKmKI8XXCZGN5zWt-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="9eXhxKmKI8XXCZGN5zWt-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1165" y="-214" as="targetPoint" />
             <mxPoint x="-1004" y="-247" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9eXhxKmKI8XXCZGN5zWt-31">
+        <mxCell id="-WsOzTaS7_-i_Jh7CUL--4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1284.5" y="490.50006103515625" as="targetPoint" />
           </mxGeometry>
@@ -100,44 +86,38 @@
         <mxCell id="9eXhxKmKI8XXCZGN5zWt-31" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Falta de responsabilidad y empatía con las demas especies que habitan nuestro planeta&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1401" y="-143" width="233" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9eXhxKmKI8XXCZGN5zWt-32" target="9eXhxKmKI8XXCZGN5zWt-31">
+        <mxCell id="-WsOzTaS7_-i_Jh7CUL--9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-32" target="9eXhxKmKI8XXCZGN5zWt-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9eXhxKmKI8XXCZGN5zWt-32" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;El control de las industrias sobre las materias primas nos impulsa a consumir mas, contaminando mas y gastando mas recursos naturales&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1401" y="-339.5" width="233" height="156.5" as="geometry" />
         </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9eXhxKmKI8XXCZGN5zWt-33" target="9eXhxKmKI8XXCZGN5zWt-32">
+        <mxCell id="-WsOzTaS7_-i_Jh7CUL--8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-33" target="9eXhxKmKI8XXCZGN5zWt-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9eXhxKmKI8XXCZGN5zWt-33" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Contaminación excesiva, desde el agua que bebemos hasta posibles microplásticos en nuestro organismo&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1401" y="-520" width="233" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9eXhxKmKI8XXCZGN5zWt-47">
+        <mxCell id="-WsOzTaS7_-i_Jh7CUL--5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="403.0000305175781" y="488.5000915527344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-47" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Amenazas de extinción a otras especies que viven en nuestro planeta&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" parent="1" vertex="1">
+        <mxCell id="9eXhxKmKI8XXCZGN5zWt-47" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Misiones exitosas poco comunes&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="287" y="-160" width="228" height="79.25" as="geometry" />
         </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9eXhxKmKI8XXCZGN5zWt-48">
+        <mxCell id="-WsOzTaS7_-i_Jh7CUL--10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-49" target="9eXhxKmKI8XXCZGN5zWt-47" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="396" y="-158" as="targetPoint" />
+            <mxPoint x="393.5" y="-356.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-48" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Contaminación y sequía de fuentes hídricas&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="277" y="-357" width="233" height="138.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9eXhxKmKI8XXCZGN5zWt-49" target="9eXhxKmKI8XXCZGN5zWt-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9eXhxKmKI8XXCZGN5zWt-49" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Degradación de ecosistemas enteros, debido a contaminación o uso excesivo de recursos&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" parent="1" vertex="1">
+        <mxCell id="9eXhxKmKI8XXCZGN5zWt-49" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Falta de financiacion para apoyar campañas de&amp;nbsp; ecofriendly&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="277" y="-570" width="233" height="153" as="geometry" />
         </mxCell>
         <mxCell id="9eXhxKmKI8XXCZGN5zWt-54" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;La industria de varios países, es responsable de gran pare de la contaminación, el consumo del agua potable y el exceso de gases de invernadero&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-959" y="-83" width="233" height="228" as="geometry" />
         </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9eXhxKmKI8XXCZGN5zWt-55" target="-WsOzTaS7_-i_Jh7CUL--12">
+        <mxCell id="-WsOzTaS7_-i_Jh7CUL--6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9eXhxKmKI8XXCZGN5zWt-55" target="-WsOzTaS7_-i_Jh7CUL--12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-449" y="486.5001220703125" as="targetPoint" />
           </mxGeometry>
@@ -148,22 +128,43 @@
         <mxCell id="9eXhxKmKI8XXCZGN5zWt-56" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Falta de ética al conceder licencias que le dan acceso a recursos naturales a multinacionales, priorizando el dinero sobre el bienestar de los ciudadanos de un país y el acceso que tienen a los recursos naturales&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-192.5" y="-86" width="233" height="251" as="geometry" />
         </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="-WsOzTaS7_-i_Jh7CUL--3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1287" y="494" as="sourcePoint" />
             <mxPoint x="407" y="489" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-WsOzTaS7_-i_Jh7CUL--12">
+        <mxCell id="-WsOzTaS7_-i_Jh7CUL--15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="-WsOzTaS7_-i_Jh7CUL--12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-452.5" y="730.5000610351562" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--12" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Canales de comunicación&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="-WsOzTaS7_-i_Jh7CUL--12" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Canales de comunicación&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-569" y="589" width="233" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="-WsOzTaS7_-i_Jh7CUL--14" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Los flujos de información que comunican a los factores de esta problemática son principalmente medios de comunicación tradicionales y redes sociales. Estos visualizan y reportan de los problemas de la degradación del medio ambiente.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="MH5lBiH-GZjAFDlm5veR-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1012" y="-395" width="258" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="-WsOzTaS7_-i_Jh7CUL--14" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Los flujos de información que comunican a los factores de esta problemática son principalmente medios de comunicación tradicionales y redes sociales. Estos visualizan y reportan de los problemas de la degradación del medio ambiente.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-569" y="731" width="233" height="303" as="geometry" />
+        </mxCell>
+        <mxCell id="MH5lBiH-GZjAFDlm5veR-2" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Pobllacion civil&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-907" y="-302.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MH5lBiH-GZjAFDlm5veR-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="-409" width="258" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="MH5lBiH-GZjAFDlm5veR-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-576" y="-131" width="258" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="MH5lBiH-GZjAFDlm5veR-6" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Gobiernos mundiales&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-477" y="-47" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MH5lBiH-GZjAFDlm5veR-7" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Organizaciones dedicadas a la protección del medio ambiente&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="-322.75" width="178" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MH5lBiH-GZjAFDlm5veR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.421;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9eXhxKmKI8XXCZGN5zWt-47" target="9eXhxKmKI8XXCZGN5zWt-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
